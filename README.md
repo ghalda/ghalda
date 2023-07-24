@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">✨Welcome to My Playground✨</h1>
 
-<!--
-**ghalda/ghalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍💻About Me
 
-Here are some ideas to get you started:
+- I currently graduated from the Quality Assurance Engineering Bootcamp at Alterra Academy. From that Bootcamp, I finish testing the website and API using Selenium, Rest Assured, and Postman.
+- I also worked as a software engineer in an IT consulting company for a year. As Software Engineer, I developed the e-commerce Progressive Web App for the client using React JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫Find Me Out
+<div align='left'>
+  <ul>
+    <a  href="https://t.me/ghalada"> 
+     <img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram"  height="32" >
+    </a>
+    <a href="https://www.linkedin.com/in/ghaldapb/">
+      <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"  height="32" >
+    </a>
+    <a href="mailto:gputribalqis@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-000?&logo=gmail" height="32" />
+    </a>
+  </ul>
+</div>
