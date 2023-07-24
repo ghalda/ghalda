@@ -1,4 +1,4 @@
-![image](https://github.com/ghalda/ghalda/assets/71718700/e4450839-6afe-4a95-b859-2c00c42ea1f2)![header](/assets/header-github.gif)
+![header](/assets/header-github.gif)
 
 ## About Me👩🏻‍💻
 - Hi, I'm Ghalda!
